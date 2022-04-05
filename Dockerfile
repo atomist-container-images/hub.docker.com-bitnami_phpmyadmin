@@ -1,12 +1,27 @@
-# Tags: latest, 5.1.3-debian-10-r44, 5.1.3, 5-debian-10, 5
+# Tags: latest, 5.1.3-debian-10-r49, 5.1.3, 5-debian-10, 5
 FROM bitnami/phpmyadmin:latest
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r44
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r49
 FROM bitnami/phpmyadmin:5.1.3
 FROM bitnami/phpmyadmin:5-debian-10
 FROM bitnami/phpmyadmin:5
 
 # Tags: _
 FROM bitnami/phpmyadmin:_
+
+# Tags: 5.1.3-debian-10-r48
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r48
+
+# Tags: 5.1.3-debian-10-r47
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r47
+
+# Tags: 5.1.3-debian-10-r46
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r46
+
+# Tags: 5.1.3-debian-10-r45
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r45
+
+# Tags: 5.1.3-debian-10-r44
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r44
 
 # Tags: 5.1.3-debian-10-r43
 FROM bitnami/phpmyadmin:5.1.3-debian-10-r43
@@ -79,18 +94,3 @@ FROM bitnami/phpmyadmin:5.1.3-debian-10-r21
 
 # Tags: 5.1.3-debian-10-r20
 FROM bitnami/phpmyadmin:5.1.3-debian-10-r20
-
-# Tags: 5.1.3-debian-10-r19
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r19
-
-# Tags: 5.1.3-debian-10-r18
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r18
-
-# Tags: 5.1.3-debian-10-r17
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r17
-
-# Tags: 5.1.3-debian-10-r16
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r16
-
-# Tags: 5.1.3-debian-10-r15
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r15
