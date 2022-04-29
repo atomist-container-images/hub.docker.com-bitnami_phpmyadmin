@@ -1,12 +1,81 @@
-# Tags: latest, 5.1.3-debian-10-r49, 5.1.3, 5-debian-10, 5
+# Tags: latest, 5.1.3-debian-10-r72, 5.1.3, 5-debian-10, 5
 FROM bitnami/phpmyadmin:latest
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r49
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r72
 FROM bitnami/phpmyadmin:5.1.3
 FROM bitnami/phpmyadmin:5-debian-10
 FROM bitnami/phpmyadmin:5
 
 # Tags: _
 FROM bitnami/phpmyadmin:_
+
+# Tags: 5.1.3-debian-10-r71
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r71
+
+# Tags: 5.1.3-debian-10-r70
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r70
+
+# Tags: 5.1.3-debian-10-r69
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r69
+
+# Tags: 5.1.3-debian-10-r68
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r68
+
+# Tags: 5.1.3-debian-10-r67
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r67
+
+# Tags: 5.1.3-debian-10-r66
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r66
+
+# Tags: 5.1.3-debian-10-r65
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r65
+
+# Tags: 5.1.3-debian-10-r64
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r64
+
+# Tags: 5.1.3-debian-10-r63
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r63
+
+# Tags: 5.1.3-debian-10-r62
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r62
+
+# Tags: 5.1.3-debian-10-r61
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r61
+
+# Tags: 5.1.3-debian-10-r60
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r60
+
+# Tags: 5.1.3-debian-10-r59
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r59
+
+# Tags: 5.1.3-debian-10-r58
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r58
+
+# Tags: 5.1.3-debian-10-r57
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r57
+
+# Tags: 5.1.3-debian-10-r56
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r56
+
+# Tags: 5.1.3-debian-10-r55
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r55
+
+# Tags: 5.1.3-debian-10-r54
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r54
+
+# Tags: 5.1.3-debian-10-r53
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r53
+
+# Tags: 5.1.3-debian-10-r52
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r52
+
+# Tags: 5.1.3-debian-10-r51
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r51
+
+# Tags: 5.1.3-debian-10-r50
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r50
+
+# Tags: 5.1.3-debian-10-r49
+FROM bitnami/phpmyadmin:5.1.3-debian-10-r49
 
 # Tags: 5.1.3-debian-10-r48
 FROM bitnami/phpmyadmin:5.1.3-debian-10-r48
@@ -25,72 +94,3 @@ FROM bitnami/phpmyadmin:5.1.3-debian-10-r44
 
 # Tags: 5.1.3-debian-10-r43
 FROM bitnami/phpmyadmin:5.1.3-debian-10-r43
-
-# Tags: 5.1.3-debian-10-r42
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r42
-
-# Tags: 5.1.3-debian-10-r41
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r41
-
-# Tags: 5.1.3-debian-10-r40
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r40
-
-# Tags: 5.1.3-debian-10-r39
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r39
-
-# Tags: 5.1.3-debian-10-r38
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r38
-
-# Tags: 5.1.3-debian-10-r37
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r37
-
-# Tags: 5.1.3-debian-10-r36
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r36
-
-# Tags: 5.1.3-debian-10-r35
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r35
-
-# Tags: 5.1.3-debian-10-r34
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r34
-
-# Tags: 5.1.3-debian-10-r33
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r33
-
-# Tags: 5.1.3-debian-10-r32
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r32
-
-# Tags: 5.1.3-debian-10-r31
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r31
-
-# Tags: 5.1.3-debian-10-r30
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r30
-
-# Tags: 5.1.3-debian-10-r29
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r29
-
-# Tags: 5.1.3-debian-10-r28
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r28
-
-# Tags: 5.1.3-debian-10-r27
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r27
-
-# Tags: 5.1.3-debian-10-r26
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r26
-
-# Tags: 5.1.3-debian-10-r25
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r25
-
-# Tags: 5.1.3-debian-10-r24
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r24
-
-# Tags: 5.1.3-debian-10-r23
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r23
-
-# Tags: 5.1.3-debian-10-r22
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r22
-
-# Tags: 5.1.3-debian-10-r21
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r21
-
-# Tags: 5.1.3-debian-10-r20
-FROM bitnami/phpmyadmin:5.1.3-debian-10-r20
